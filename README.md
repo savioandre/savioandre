@@ -7,10 +7,11 @@
  </div>
   
 ##
- ### Contato: 
+ <h2> Contato: </h2>
  
- <a href="mailto:savioandre@outlook.pt" target:"blank_">
-  Outlook
-</a>
+
+ <a href="mailto:savioandre@outlook.pt">
+ <img src="https://github.com/savioandre/Midia_Kit_Web/blob/main/Kit%20de%20M%C3%ADdia%20Web/Outlook/Outlook.png?raw=true" width=50px></a>
+ 
  
   
