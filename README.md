@@ -1,3 +1,4 @@
+
 # Hi there 👋
 
 <div>
@@ -9,9 +10,8 @@
 ##
  <h2> Contato: </h2>
  
-
- <a href="mailto:savioandre@outlook.pt">
- <img src="https://github.com/savioandre/Midia_Kit_Web/blob/main/Kit%20de%20M%C3%ADdia%20Web/Outlook/Outlook.png?raw=true" width=50px></a>
- 
- 
-  
+<div>
+ <a href=""><img src="https://user-images.githubusercontent.com/81815495/118910547-054a7580-b8fb-11eb-851b-968de24187dc.png" alt="Behance"></a>
+ <a href=""><img src="https://user-images.githubusercontent.com/81815495/118910389-bef51680-b8fa-11eb-9815-edc3608fb0a1.png" alt="Linkedin"></a>
+ <a href=""><img src="https://user-images.githubusercontent.com/81815495/118910468-e0560280-b8fa-11eb-94f3-f9bf61677268.png" alt="Outlook"></a>
+</div>  
