@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there <img src="" width=40px ></h1> <!--👋-->
+<h1 align="center">Hi there 👋</h1> 
 
 <div align="center">
   <a href="https://github.com/savioandre">
@@ -9,7 +9,7 @@
  </div>
   
 ##
- <h2> Contato: </h2>
+ <h2> Contact: </h2>
  
 <div align="center">
  <a href="mailto:savioandre@outlook.pt"><img src="https://user-images.githubusercontent.com/81815495/118910547-054a7580-b8fb-11eb-851b-968de24187dc.png" alt="Behance"></a>
